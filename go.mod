@@ -1,4 +1,4 @@
-module go.samhza.com/ytsearch
+module samhza.com/ytsearch
 
 go 1.17
 
